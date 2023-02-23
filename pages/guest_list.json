@@ -38,7 +38,7 @@
       "locale": ""
     },
     {
-      "guestId": "Satria",
+      "guestId": "satria",
       "guestUrl": "https://wedding-invite-demo.wzulfikar.now.sh/?u=DQatlWff",
       "name": "Satria",
       "greeting": "",
@@ -59,9 +59,9 @@
       "locale": ""
     },
     {
-      "guestId": "Iyung",
+      "guestId": "iyung",
       "guestUrl": "https://wedding-invite-demo.wzulfikar.now.sh/?u=DQatlWff",
-      "name": "Iyung",
+      "name": "Sahrul Firmansya",
       "greeting": "",
       "locale": ""
     },
@@ -69,6 +69,13 @@
       "guestId": "Vidy",
       "guestUrl": "https://wedding-invite-demo.wzulfikar.now.sh/?u=DQatlWff",
       "name": "Vidy",
+      "greeting": "",
+      "locale": ""
+    },
+    {
+      "guestId": "luwie",
+      "guestUrl": "https://wedding-invite-demo.wzulfikar.now.sh/?u=DQatlWff",
+      "name": "Luwie Hartiarsa",
       "greeting": "",
       "locale": ""
     }

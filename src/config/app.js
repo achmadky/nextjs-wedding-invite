@@ -28,7 +28,7 @@ const baseConfig = {
   },
   ogTags: {
     logo: "/assets/images/dt-ring-logo.png",
-    siteName: "wedding.wzulfikar.com",
+    siteName: "wedding.dhikrillah.com",
     publishedTime: "2023-02-22"
   }
 };
