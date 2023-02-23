@@ -17,7 +17,7 @@ export default ({ title, description, url, logo, author, siteName, publishedTime
 
       <meta name="description" content={description} />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
-      <link rel="shortcut icon" href="/assets/images/favicon.png?123" type="image/png" />
+      <link rel="shortcut icon" href="/assets/images/favicon1.png?123" type="image/png" />
       <link rel="stylesheet" href="/assets/css/animate.css" />
       <link rel="stylesheet" href="/assets/css/bootstrap.min.css" />
       <link rel="stylesheet" href="/assets/css/default.css" />

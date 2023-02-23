@@ -143,7 +143,7 @@ const ShowInvite = ({ currentUrl, guestListLastUpdatedAt, guest }) => {
                 }}>
                   <AddToCalendar event={calendarEvent} buttonLabel={t("btnAddToMyCalendar")} />
                 </div>
-                <img src="/assets/images/section_shape.png" alt="Shape" />
+                <img src="/assets/images/section_shape1.png" alt="Shape" />
               </div>
             </div>
             <div className="col-lg-8">

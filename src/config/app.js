@@ -22,12 +22,12 @@ const baseConfig = {
     mapUrl: "https://goo.gl/maps/kpbL46cVLWHLu76t6"
   },
   logo: {
-    headerLogo: "/assets/images/ring-svg.png",
+    headerLogo: "/assets/images/ring-svg1.png",
     footerLogo: "/assets/video/aw-ring-logo-ticker.mp4",
     footerLogoType: "mp4"
   },
   ogTags: {
-    logo: "/assets/images/aw-ring-logo.png",
+    logo: "/assets/images/dt-ring-logo.png",
     siteName: "wedding.wzulfikar.com",
     publishedTime: "2023-02-22"
   }
