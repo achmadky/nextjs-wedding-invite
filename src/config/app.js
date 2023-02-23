@@ -23,7 +23,7 @@ const baseConfig = {
   },
   logo: {
     headerLogo: "/assets/images/ring-svg1.png",
-    footerLogo: "/assets/video/aw-ring-logo-ticker.mp4",
+    footerLogo: "/assets/video/dt.mp4",
     footerLogoType: "mp4"
   },
   ogTags: {
