@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "lastUpdatedAt": "2020-01-28T02:39:45.220Z"
+  },
+  "data": [
+    {
+      "guestId": "DQatlWff",
+      "guestUrl": "https://wedding-invite-demo.wzulfikar.now.sh/?u=DQatlWff",
+      "name": "John Doe",
+      "greeting": "",
+      "locale": ""
+    },
+    {
+      "guestId": "Tania",
+      "guestUrl": "https://wedding-invite-demo.wzulfikar.now.sh/?u=DQatlWff",
+      "name": "Tania",
+      "greeting": "",
+      "locale": ""
+    },
+    {
+      "guestId": "Dhiki",
+      "guestUrl": "https://wedding-invite-demo.wzulfikar.now.sh/?u=DQatlWff",
+      "name": "Dhiki",
+      "greeting": "",
+      "locale": ""
+    },{
+      "guestId": "Yoenarmiati",
+      "guestUrl": "https://wedding-invite-demo.wzulfikar.now.sh/?u=DQatlWff",
+      "name": "Yoenarmiati",
+      "greeting": "",
+      "locale": ""
+    },
+    {
+      "guestId": "Masykur",
+      "guestUrl": "https://wedding-invite-demo.wzulfikar.now.sh/?u=DQatlWff",
+      "name": "Masykur",
+      "greeting": "",
+      "locale": ""
+    },
+    {
+      "guestId": "Satria",
+      "guestUrl": "https://wedding-invite-demo.wzulfikar.now.sh/?u=DQatlWff",
+      "name": "Satria",
+      "greeting": "",
+      "locale": ""
+    },
+    {
+      "guestId": "Aryo",
+      "guestUrl": "https://wedding-invite-demo.wzulfikar.now.sh/?u=DQatlWff",
+      "name": "Aryo",
+      "greeting": "",
+      "locale": ""
+    },
+    {
+      "guestId": "Helmi",
+      "guestUrl": "https://wedding-invite-demo.wzulfikar.now.sh/?u=DQatlWff",
+      "name": "Helmi",
+      "greeting": "",
+      "locale": ""
+    },
+    {
+      "guestId": "Iyung",
+      "guestUrl": "https://wedding-invite-demo.wzulfikar.now.sh/?u=DQatlWff",
+      "name": "Iyung",
+      "greeting": "",
+      "locale": ""
+    },
+    {
+      "guestId": "Vidy",
+      "guestUrl": "https://wedding-invite-demo.wzulfikar.now.sh/?u=DQatlWff",
+      "name": "Vidy",
+      "greeting": "",
+      "locale": ""
+    }
+  ]
+}
