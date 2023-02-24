@@ -85,6 +85,13 @@
       "name": "Ilham Suaryadi",
       "greeting": "",
       "locale": ""
+    },
+    {
+      "guestId": "luke",
+      "guestUrl": "https://wedding-invite-demo.wzulfikar.now.sh/?u=DQatlWff",
+      "name": "Luke Sambur",
+      "greeting": "",
+      "locale": ""
     }
   ]
 }
