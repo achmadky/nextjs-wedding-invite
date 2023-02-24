@@ -40,14 +40,14 @@
     {
       "guestId": "satria",
       "guestUrl": "https://wedding-invite-demo.wzulfikar.now.sh/?u=DQatlWff",
-      "name": "Satria",
+      "name": "Satria Wahyu",
       "greeting": "",
       "locale": ""
     },
     {
-      "guestId": "Aryo",
+      "guestId": "aryo",
       "guestUrl": "https://wedding-invite-demo.wzulfikar.now.sh/?u=DQatlWff",
-      "name": "Aryo",
+      "name": "Aryo Agustian",
       "greeting": "",
       "locale": ""
     },
@@ -76,6 +76,13 @@
       "guestId": "luwie",
       "guestUrl": "https://wedding-invite-demo.wzulfikar.now.sh/?u=DQatlWff",
       "name": "Luwie Hartiarsa",
+      "greeting": "",
+      "locale": ""
+    },
+    {
+      "guestId": "ilham",
+      "guestUrl": "https://wedding-invite-demo.wzulfikar.now.sh/?u=DQatlWff",
+      "name": "Ilham Suaryadi",
       "greeting": "",
       "locale": ""
     }
